@@ -22,4 +22,4 @@ TailwindCSS: https://tailwindcss.com/docs/guides/create-react-app
 
 ### Video Tutorial
 
-You can see my youtube video for this project in [here](https://youtu.be/6-CsXSfSVNY)
+You can see my youtube video for this project in [here](https://youtu.be/BfnbPwqHhfY)
